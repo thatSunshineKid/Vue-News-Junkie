@@ -13,7 +13,7 @@ Development in progress.
 ```
 python -m SimpleHTTPServer 8080
 ```
-3. and visit [localhost:8080](localhost:8080) to browse locally
+3. and visit [localhost:8080](https://localhost:8080) to browse locally
 
 
 # Upcoming Features:
