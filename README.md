@@ -9,11 +9,11 @@ Development in progress.
  ```
  git clone git@github.com:thatSunshineKid/Vue-News-Junkie.git
 ```
-2. In root directory, start an HTTP server
+ 2. In root directory, start an HTTP server
 ```
 python -m SimpleHTTPServer 8080
 ```
-3. and visit [localhost:8080](https://localhost:8080) to browse locally
+ 3. and visit [localhost:8080](https://localhost:8080) to browse locally
 
 
 # Upcoming Features:
